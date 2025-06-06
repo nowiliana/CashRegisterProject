@@ -1,0 +1,48 @@
+Date: 01/06/2025 20:52:31
+Username: nowiliana
+Items Purchased:
+Caramel Machiato | Quantity: 2 | Price: $10.0
+Total Amount: $10.0
+---------------------------------------------------
+Date: 06/06/2025 05:27:49
+Username: nowiliana
+Items Purchased:
+Caramel Machiato | Quantity: 4 | Price: $20.00
+Total Amount: $20.00
+---------------------------------------------------
+Date: 06/06/2025 06:30:58
+Username: Nowilianaa
+Items Purchased:
+Cookies | Quantity: 7 | Price: $28.00
+Iced Americano | Quantity: 2 | Price: $8.00
+Carrot Cake | Quantity: 4 | Price: $36.00
+Salted Caramel | Quantity: 2 | Price: $12.00
+Total Amount: $84.00
+---------------------------------------------------
+Date: 06/06/2025 06:38:15
+Username: MaritesEscondo
+Items Purchased:
+Cookies | Quantity: 2 | Price: $8.00
+Cupcake | Quantity: 4 | Price: $28.00
+Caramel Machiato | Quantity: 7 | Price: $35.00
+Iced Americano | Quantity: 1 | Price: $4.00
+Total Amount: $75.00
+---------------------------------------------------
+Date: 06/06/2025 14:10:23
+Username: RamenNagi
+Items Purchased:
+Caramel Machiato | Quantity: 2 | Price: $10.00
+Cookies | Quantity: 3 | Price: $12.00
+Carrot Cake  | Quantity: 2 | Price: $18.00
+Salted Caramel | Quantity: 1 | Price: $6.00
+Total Amount: $46.00
+---------------------------------------------------
+Date: 06/06/2025 19:07:35
+Username: ThereseEscondo
+Items Purchased:
+Iced Americano | Quantity: 2 | Price: $8.00
+Salted Caramel | Quantity: 4 | Price: $24.00
+Cookies | Quantity: 3 | Price: $12.00
+Carrot Cake | Quantity: 1 | Price: $9.00
+Total Amount: $53.00
+---------------------------------------------------
